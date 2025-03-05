@@ -1,0 +1,9 @@
+{
+  "/_not-found/page": "/_not-found",
+  "/api/receipts/[id]/download/route": "/api/receipts/[id]/download",
+  "/favicon.ico/route": "/favicon.ico",
+  "/(private)/billing/page": "/billing",
+  "/(public)/upgrade/basic/page": "/upgrade/basic",
+  "/(public)/upgrade/premium/page": "/upgrade/premium",
+  "/page": "/"
+}

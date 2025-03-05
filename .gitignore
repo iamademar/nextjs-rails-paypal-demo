@@ -1,0 +1,60 @@
+# dependencies
+/node_modules
+node_modules
+node_modules/
+*/node_modules
+*/node_modules/*
+subscription-frontend/node_modules
+subscription-api/node_modules
+/.pnp
+.pnp.*
+.yarn/*
+!.yarn/patches
+
+# testing
+/coverage
+
+# next.js
+/.next/
+/out/
+
+# production
+/build
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# local env files
+.env
+.env*.local
+.env.development
+.env.test
+.env.production
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+# Cache directories
+.cache/
+repomix-output.txt
+prompt_plan.md
+subscription-api/config/master.key
+subscription-api/config/credentials.yml.enc
+
+# Logs
+/log/
+*.log
+/subscription-api/log/
+/subscription-api/tmp/
+.next/logs/
+/tmp/

@@ -1,0 +1,5 @@
+{
+  "/(public)/upgrade/basic/page": "app/(public)/upgrade/basic/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/(private)/billing/page": "app/(private)/billing/page.js"
+}
