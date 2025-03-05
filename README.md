@@ -2,7 +2,7 @@
 
 This project demonstrates a PayPal subscription system using a NextJS frontend and Rails API backend.
 
-Reference: https://github.com/iamademar/nextjs-rails-paypal-demo
+Reference: [https://blog.ademartutor.com/p/implementing-paypal-subscriptions](https://blog.ademartutor.com/p/implementing-paypal-subscriptions)
 
 ## Project Structure
 
